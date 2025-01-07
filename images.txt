@@ -16,8 +16,6 @@ elasticsearch:7.17.6
 
 kibana:7.17.6
 
-monstache:6.7
-
 openjdk:11
 
 python:3.8.20
