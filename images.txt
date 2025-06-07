@@ -10,8 +10,7 @@ heartexlabs/label-studio:latest
 
 node:20-alpine
 
-mongo:4.4.16
---platform=linux/arm64/v8
+mongo:4.4.16 --platform=linux/arm64/v8
 
 elasticsearch:7.17.6
 
